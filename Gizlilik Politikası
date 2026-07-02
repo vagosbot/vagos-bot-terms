@@ -1,0 +1,60 @@
+# Vagos Gizlilik Politikası
+
+**Son Güncelleme:** 2 Temmuz 2026
+
+Bu Gizlilik Politikası, **Vagos** Discord Botu  tarafından kullanıcı verilerinin nasıl toplandığını, kullanıldığını ve korunduğunu açıklamaktadır. Botu kullanarak bu politikada belirtilen şartları kabul etmiş sayılırsınız.
+
+## 1. Toplanan Veriler
+
+Vagos, hizmetlerini sunabilmek amacıyla aşağıdaki verileri işleyebilir:
+
+* Discord Kullanıcı Kimliği (User ID)
+* Sunucu Kimliği (Server ID)
+* Kanal Kimliği (Channel ID)
+* Mesaj Kimliği (Message ID)
+* Bot komutları aracılığıyla sağlanan bilgiler
+* Sunucuya özel bot ayarları ve yapılandırma verileri
+
+Vagos, gerekli olmadığı sürece mesaj içeriklerini kalıcı olarak saklamaz.
+
+## 2. Verilerin Kullanım Amacı
+
+Toplanan veriler aşağıdaki amaçlarla kullanılabilir:
+
+* Botun özelliklerini çalıştırmak
+* Sunucuya özel ayarları kaydetmek
+* Komutların doğru şekilde çalışmasını sağlamak
+* Hataları tespit etmek ve performansı iyileştirmek
+* Güvenliği sağlamak ve kötüye kullanımı önlemek
+
+## 3. Veri Saklama
+
+Veriler yalnızca hizmetin sağlanması için gerekli olduğu süre boyunca saklanır. Gerekliliği ortadan kalkan veriler makul süre içinde silinir.
+
+## 4. Verilerin Paylaşılması
+
+Vagos, kullanıcı verilerini satmaz, kiralamaz veya ticari amaçlarla üçüncü taraflarla paylaşmaz. Veriler yalnızca yasal zorunluluklar veya hizmet güvenliğinin sağlanması gerektiğinde paylaşılabilir.
+
+## 5. Veri Güvenliği
+
+Kullanıcı verilerini korumak amacıyla makul teknik ve idari güvenlik önlemleri uygulanmaktadır. Ancak internet üzerinden gerçekleştirilen hiçbir veri aktarımının tamamen güvenli olduğu garanti edilemez.
+
+## 6. Kullanıcı Hakları
+
+Kullanıcılar, mümkün olduğu ölçüde:
+
+* Kendileri hakkında saklanan veriler hakkında bilgi talep edebilir.
+* Verilerinin silinmesini isteyebilir.
+* Gizlilikle ilgili sorularını bot geliştiricisine iletebilir.
+
+## 7. Üçüncü Taraf Hizmetler
+
+Vagos, çalışması sırasında Discord ve kullanılan diğer hizmet sağlayıcıların hizmetlerine bağlı olarak çalışabilir. Bu hizmetlerin kendi gizlilik politikaları geçerlidir.
+
+## 8. Politika Değişiklikleri
+
+Bu Gizlilik Politikası gerektiğinde güncellenebilir. Güncel sürüm yayımlandığı tarihten itibaren yürürlüğe girer.
+
+## 9. İletişim
+
+Gizlilik Politikası ile ilgili sorularınız veya veri silme talepleriniz için bot geliştiricisiyle iletişime geçebilirsiniz.
