@@ -1,53 +1,46 @@
-# Hizmet Koşulları (Terms of Service)
+# Vagos Hizmet Koşulları
 
 **Son Güncelleme:** 2 Temmuz 2026
 
-Bu Hizmet Koşulları ("Koşullar"), bu Discord botunu ("Bot") kullanmanız için geçerli kuralları belirler. Botu kullanarak aşağıdaki koşulları kabul etmiş olursunuz.
+Bu Hizmet Koşulları ("Koşullar"), **Vagos** Discord Botu ("Bot") kullanımını düzenler. Botu kullanarak aşağıdaki koşulları kabul etmiş sayılırsınız.
 
 ## 1. Hizmetin Kullanımı
 
-Bot, Discord sunucularında belirli özellikleri ve işlevleri sağlamak amacıyla sunulmaktadır. Botu yalnızca yürürlükteki yasalara ve Discord'un Hizmet Koşulları ile Topluluk Kuralları'na uygun şekilde kullanmayı kabul edersiniz.
+Vagos, Discord sunucularında çeşitli özellikler ve araçlar sunmak amacıyla geliştirilmiştir. Kullanıcılar, Botu yürürlükteki yasalara ve Discord'un Hizmet Koşulları ile Topluluk Kuralları'na uygun şekilde kullanmayı kabul eder.
 
 ## 2. Yasaklanan Kullanımlar
 
-Aşağıdaki davranışlar yasaktır:
+Kullanıcılar aşağıdaki davranışlarda bulunmamayı kabul eder:
 
 * Botu yasa dışı faaliyetlerde kullanmak.
-* Botun çalışmasını engellemek veya kötüye kullanmak.
-* Botu spam, dolandırıcılık veya zararlı içerik yaymak amacıyla kullanmak.
-* Botun güvenlik önlemlerini aşmaya çalışmak.
-* Botun altyapısına zarar verebilecek aşırı veya kötü niyetli istekler göndermek.
+* Botun güvenliğini, kararlılığını veya performansını olumsuz etkileyecek girişimlerde bulunmak.
+* Botu kötüye kullanmak, spam yapmak veya hizmeti diğer kullanıcılar için kullanılmaz hâle getirmeye çalışmak.
+* Botun çalışma düzenini bozabilecek otomasyonlar veya yöntemler kullanmak.
 
-Bu kuralların ihlali halinde bota erişiminiz önceden bildirim yapılmaksızın sınırlandırılabilir veya sonlandırılabilir.
+## 3. Hizmetin Değiştirilmesi
 
-## 3. Veri Kullanımı
+Botun özellikleri, işlevleri veya çalışma şekli önceden bildirim yapılmaksızın değiştirilebilir, güncellenebilir veya kaldırılabilir.
 
-Botun çalışabilmesi için aşağıdaki veriler işlenebilir:
+## 4. Hizmetin Sonlandırılması
 
-* Discord Kullanıcı Kimliği (User ID)
-* Sunucu Kimliği (Guild ID)
-* Kanal Kimliği (Channel ID)
-* Mesaj içerikleri (yalnızca ilgili özelliğin çalışması için gerekli olduğunda)
-* Bot ayarları ve yapılandırma verileri
+Bot geliştiricisi, gerekli gördüğü durumlarda herhangi bir kullanıcıya veya sunucuya erişimi geçici veya kalıcı olarak kısıtlayabilir ya da sonlandırabilir. Buna kötüye kullanım, güvenlik riskleri veya bu Koşulların ihlali dâhil olabilir.
 
-Veriler, botun işlevlerini yerine getirmek, güvenliği sağlamak ve hizmet kalitesini artırmak amacıyla kullanılabilir.
+## 5. Sorumluluğun Sınırlandırılması
 
-## 4. Gizlilik
+Vagos "olduğu gibi" sunulmaktadır. Bot geliştiricisi, hizmetin kesintisiz, hatasız veya her zaman erişilebilir olacağını garanti etmez. Botun kullanımından doğabilecek doğrudan veya dolaylı zararlardan, yürürlükteki hukukun izin verdiği ölçüde sorumlu tutulamaz.
 
-Kişisel verilerin işlenmesi hakkında ayrıntılı bilgi için Gizlilik Politikası geçerlidir.
+## 6. Fikri Mülkiyet
 
-## 5. Hizmetin Kullanılabilirliği
+Botun yazılımı, tasarımı, adı ve ilgili içerikleri bot geliştiricisine aittir veya gerekli kullanım hakları kapsamında kullanılmaktadır. İzinsiz kopyalanması, dağıtılması veya ticari amaçla kullanılması yasaktır.
 
-Bot sürekli veya kesintisiz hizmet verme garantisi sunmaz. Bakım, teknik sorunlar veya diğer nedenlerle hizmet geçici olarak durdurulabilir, değiştirilebilir veya tamamen sonlandırılabilir.
+## 7. Gizlilik
 
-## 6. Sorumluluğun Sınırlandırılması
+Botun kullanıcı verilerini nasıl işlediğine ilişkin bilgiler **Vagos Gizlilik Politikası**'nda açıklanmaktadır. Botu kullanarak ilgili Gizlilik Politikası'nı da kabul etmiş sayılırsınız.
 
-Bot "olduğu gibi" sunulmaktadır. Botun kullanımından kaynaklanabilecek doğrudan veya dolaylı zararlar, veri kayıpları veya hizmet kesintilerinden mümkün olan en geniş ölçüde sorumluluk kabul edilmez.
+## 8. Koşullarda Değişiklik
 
-## 7. Değişiklikler
+Bu Hizmet Koşulları gerektiğinde güncellenebilir. Güncellenen sürüm yayımlandığı tarihten itibaren geçerli olur. Botu kullanmaya devam etmeniz, güncel koşulları kabul ettiğiniz anlamına gelir.
 
-Bu Hizmet Koşulları herhangi bir zamanda güncellenebilir. Güncellenen sürüm yayımlandığı tarihten itibaren yürürlüğe girer.
+## 9. İletişim
 
-## 8. İletişim
-
-Sorularınız veya talepleriniz için botun resmi destek sunucusu veya geliştiricisi üzerinden iletişime geçebilirsiniz.
+Bu Hizmet Koşulları ile ilgili sorularınız veya geri bildirimleriniz için bot geliştiricisiyle iletişime geçebilirsiniz.
